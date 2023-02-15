@@ -4,4 +4,4 @@ An imitation of the popular game [wordle](https://www.nytimes.com/games/wordle/i
 
 ## Usage
 
-![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+![](https://github.com/zaldyz/wordle/blob/master/wordle.gif)
